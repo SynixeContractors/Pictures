@@ -1,0 +1,7 @@
+release/
+releases/
+target/
+*.pbo
+*.exe
+.hemttout/
+utils/**/*.txt
