@@ -1,6 +1,6 @@
 name = "Synixe Pictures"
-prefix = "pictures"
-mainprefix = "synixe"
+prefix = "synixe_pictures"
+mainprefix = "x"
 author = "Synixe Contractors"
 
 [files]
@@ -54,8 +54,8 @@ workshop = [
     "646999497" # Theseus Services
 ]
 
-[hemtt.launch.gcg]
+[hemtt.launch.gorkas]
 extends = "default"
 workshop = [
-    "2877761954" # Generic Civilian Gear
+    "2752324758" # Gorkas 'n' Gear
 ]

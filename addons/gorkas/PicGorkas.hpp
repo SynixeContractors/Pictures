@@ -1,3 +1,9 @@
+#undef PICTURE
+#define PICTURE(BASE) \
+    class BASE: Uniform_Base { \
+        picture = QPATHTOF(pictures\##BASE##.paa); \
+    }
+
 PICTURE(eou_gorka_1);
 PICTURE(eou_gorka_2);
 PICTURE(eou_gorka_3);

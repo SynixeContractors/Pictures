@@ -1,5 +1,5 @@
-#define MAINPREFIX synixe
-#define PREFIX pictures
+#define MAINPREFIX x
+#define PREFIX synixe_pictures
 
 #include "script_version.hpp"
 
