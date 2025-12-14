@@ -12,9 +12,7 @@ class CfgPatches {
             "eo_gorkas",
         };
         skipWhenMissingDependencies = 1;
-        author = ECSTRING(main,Authors);
         authors[] = {"Brett"};
-        url = ECSTRING(main,URL);
         VERSION_CONFIG;
     };
 };
